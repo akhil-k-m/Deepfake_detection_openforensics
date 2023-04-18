@@ -30,4 +30,4 @@ The dataset used for training the data is [openForensics](https://sites.google.c
  ### Refences 
   <p> 1.Deepfake detection technique using Deeplearniing techniques [link](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149).<br>
    2.Detecting DeepFake, FaceSwap and Face2Face facial forgeries using frequency CNN [link](https://link.springer.com/article/10.1007/s11042-020-10420-8#:~:text=The%20FaceSwap%20is%20a%20computer,of%20a%20person%20is%20replaced.)<br>
-   3.Dataset [link](https://sites.google.com/view/ltnghia/research/openforensics)
+   3.Dataset [link](https://sites.google.com/view/ltnghia/research/openforensics)</p>
