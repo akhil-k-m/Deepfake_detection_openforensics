@@ -12,16 +12,17 @@ The dataset used for training the data is [openForensics](https://sites.google.c
 
 <br>
 <br>
-### Literature Review in brief
+
+###Literature Review in brief
 <p>1. In previous dataset only one face indentity was present in a singular image. <br>
  2. In this datset more than one face identity is present in the Singular image. Therefore, making it difficult to detect deepfakes.<br>
  3. <strong>No previous work have been done before on this dataset.<br>
  4. Deep learning techniques perform better than any other technique present. One reason is, as now deepfakes a created by deep learning techniques to bring them to perfection.<br>
- 4. CNN performs better on image classification.[reference](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149)<br>
+ 4. CNN performs better on image classification. [reference](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149)<br>
  <p>
   <br><br>
   
- ### Force*displacement
+ ###Force*displacement
   
  <p>1. I have been training different CNN models and analyzing the results continuously.<br> 
   2.The names of the files are like DF.*(ascending order with time.)<br>
