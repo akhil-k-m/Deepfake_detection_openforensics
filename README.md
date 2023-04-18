@@ -25,9 +25,9 @@ The dataset used for training the data is [openForensics](https://sites.google.c
   
  <p>1. I have been training different CNN models and analyzing the results continuously.<br> 
   2.The names of the files are like DF.*(ascending order with time.)<br>
-
+</p>
   
  ### Refences 
-  <p> 1.Deepfake detection technique using Deeplearniing techniques [!link](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149).<br>
-   2.Detecting DeepFake, FaceSwap and Face2Face facial forgeries using frequency CNN [!link](https://link.springer.com/article/10.1007/s11042-020-10420-8#:~:text=The%20FaceSwap%20is%20a%20computer,of%20a%20person%20is%20replaced.)<br>
-   3.Dataset [!link](https://sites.google.com/view/ltnghia/research/openforensics)</p>
+  <p> 1.Deepfake detection technique using Deeplearniing techniques [link](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149).<br>
+   2.Detecting DeepFake, FaceSwap and Face2Face facial forgeries using frequency CNN [link](https://link.springer.com/article/10.1007/s11042-020-10420-8#:~:text=The%20FaceSwap%20is%20a%20computer,of%20a%20person%20is%20replaced.)<br>
+   3.Dataset [link](https://sites.google.com/view/ltnghia/research/openforensics)</p>
