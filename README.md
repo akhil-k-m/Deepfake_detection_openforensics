@@ -17,14 +17,17 @@ The dataset used for training the data is [openForensics](https://sites.google.c
  2. In this datset more than one face identity is present in the Singular image. Therefore, making it difficult to detect deepfakes.<br>
  3. <strong>No previous work have been done before on this dataset.<br>
  4. Deep learning techniques perform better than any other technique present. One reason is, as now deepfakes a created by deep learning techniques to bring them to perfection.<br>
- 5. CNN performs better on image classification. <p> [reference](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149)<br>
+ 5. CNN performs better on image classification.
 
   <br><br>
-  
+  <p>
  ### Force*displacement
   
  <p>1. I have been training different CNN models and analyzing the results continuously.<br> 
   2.The names of the files are like DF.*(ascending order with time.)<br>
 
   
- 
+ ### Refences 
+  <p> 1.Deepfake detection technique using Deeplearniing techniques [link](https://www.scirp.org/journal/paperinformation.aspx?paperid=109149).<br>
+   2.Detecting DeepFake, FaceSwap and Face2Face facial forgeries using frequency CNN [link](https://link.springer.com/article/10.1007/s11042-020-10420-8#:~:text=The%20FaceSwap%20is%20a%20computer,of%20a%20person%20is%20replaced.)<br>
+   3.Dataset [link](https://sites.google.com/view/ltnghia/research/openforensics)
