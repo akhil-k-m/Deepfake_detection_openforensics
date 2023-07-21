@@ -2,7 +2,7 @@
 
 The dataset used for training the data is [openForensics](https://sites.google.com/view/ltnghia/research/openforensics).
 
-### About the data set
+### About the OpenForensics data set
 <p>1. It is the most challenging datset till date.<br>
 2.This dataset contains images that were produced by GAN. By swapping two persons identity.(face identity)<br> 
 3.This dataset supports both deepfake and general face related tasks because of rich annotations.<br>
